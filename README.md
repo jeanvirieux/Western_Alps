@@ -46,7 +46,7 @@ Each line is composed of
 
 ID_data
 picked time (in sec)
-pciked uncertainty (in sec)
+picked uncertainty (in sec)
 ID_event
 ID_station
 ID_ray (not defined)
@@ -62,7 +62,7 @@ Title
 Assessing the reliability of local earthquake tomography for crustal imaging: 30 years of records in the Western Alps as a case study
 
 Authors
-J. Virieux, A. Paul, P. Guéguen, A. Helmstetter, G. Janex, M. Langlais, B. Potin, and L. Stehly
+J. Virieux, A. Paul, M. Langlais, A. Helmstetter, G. Janex, Philippe Guéguen, and L. Stehly
 
 submitted to Geophysical Journal International
 
