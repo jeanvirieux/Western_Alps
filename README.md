@@ -62,7 +62,7 @@ Title
 Assessing the reliability of local earthquake tomography for crustal imaging: 30 years of records in the Western Alps as a case study
 
 Authors
-J. Virieux, A. Paul, M. Langlais, A. Helmstetter, G. Janex, Philippe Guéguen, and L. Stehly
+J. Virieux, A. Paul, M. Langlais, G. Janex, Philippe Guéguen, Agnès Helmstetter and L. Stehly
 
 submitted to Geophysical Journal International
 
